@@ -1,0 +1,271 @@
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\appsettings.Development.json
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\appsettings.json
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\WebAPPMVC.exe
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\WebAPPMVC.deps.json
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\WebAPPMVC.runtimeconfig.json
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\WebAPPMVC.runtimeconfig.dev.json
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\WebAPPMVC.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ref\WebAPPMVC.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\WebAPPMVC.pdb
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\WebAPPMVC.Views.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\WebAPPMVC.Views.pdb
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Humanizer.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.csproj.AssemblyReference.cache
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.AssemblyInfoInputs.cache
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.AssemblyInfo.cs
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.csproj.CoreCompileInputs.cache
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.MvcApplicationPartsAssemblyInfo.cache
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.RazorAssemblyInfo.cache
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.RazorAssemblyInfo.cs
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\staticwebassets\WebAPPMVC.StaticWebAssets.Manifest.cache
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\staticwebassets\WebAPPMVC.StaticWebAssets.xml
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\scopedcss\bundle\WebAPPMVC.styles.css
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.TagHelpers.input.cache
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.TagHelpers.output.cache
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.RazorCoreGenerate.cache
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.RazorTargetAssemblyInfo.cache
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.RazorTargetAssemblyInfo.cs
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.Views.pdb
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.csproj.CopyComplete
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.dll
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\ref\WebAPPMVC.dll
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.pdb
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.genruntimeconfig.cache
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\Home\create.cshtml.g.cs
+E:\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\Home\Edit.cshtml.g.cs
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\appsettings.Development.json
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\appsettings.json
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\WebAPPMVC.exe
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\WebAPPMVC.deps.json
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\WebAPPMVC.runtimeconfig.json
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\WebAPPMVC.runtimeconfig.dev.json
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\WebAPPMVC.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ref\WebAPPMVC.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\WebAPPMVC.pdb
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\WebAPPMVC.Views.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\WebAPPMVC.Views.pdb
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Azure.Core.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Azure.Identity.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Humanizer.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.SqlServer.Server.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\System.Memory.Data.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.csproj.AssemblyReference.cache
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.AssemblyInfoInputs.cache
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.AssemblyInfo.cs
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.csproj.CoreCompileInputs.cache
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.MvcApplicationPartsAssemblyInfo.cache
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.RazorAssemblyInfo.cache
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.RazorAssemblyInfo.cs
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\staticwebassets\WebAPPMVC.StaticWebAssets.Manifest.cache
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\staticwebassets\WebAPPMVC.StaticWebAssets.xml
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\scopedcss\bundle\WebAPPMVC.styles.css
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.TagHelpers.input.cache
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.TagHelpers.output.cache
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.RazorCoreGenerate.cache
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\Home\create.cshtml.g.cs
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\Home\Edit.cshtml.g.cs
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\Home\Index1.cshtml.g.cs
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\Login\Login.cshtml.g.cs
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.RazorTargetAssemblyInfo.cache
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.RazorTargetAssemblyInfo.cs
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.Views.pdb
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.csproj.CopyComplete
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\ref\WebAPPMVC.dll
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.pdb
+E:\BACKUP GOAL SETTING\WebAPICORE\WebAPPMVC\obj\Debug\net5.0\WebAPPMVC.genruntimeconfig.cache
